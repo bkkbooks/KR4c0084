@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4c0084/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部二
+  hash: sha256:12d8190cadcf5eac3a9a3b81ae053c873dee29480bf15c1526bdc2f7417fab40
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0084_WYG_000-1a, image: WYG1083/WYG1083-0095a.png}
+body:
+  text: 麟角集别集類一唐提要臣等謹案麟角集一巻唐王棨撰棨字輔之福清人咸通三年進士官至水部郎中黄巢亂後不知所終唐代重進士科試以詩賦有司按其聲病以為去取議者皆患其浮薄少實而迄不能變其前後得人亦最為盛雖以當世大賢如裴度韓愈之徒皆工為之其所作往往附見本集中然未有以程試之文專加裒輯行世者有之自棨此集始凡律賦四十五篇又棨八代孫宋著作佐郎蘋於館閣得棨省題詩録附於集凡二十一篇題曰麟角者葢取顔氏家訓學如牛毛成如麟角之義以及第比登仙也集中佳作已多載文苑英華中雖科舉之業大都鞶帨其詞無闗著述而一朝選舉之式畧具於斯録而存之亦足備文章之一格也乾隆四十六年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:75e304933a1936f7422d08f0737bd39c588b18edf50ef44ef2a43cc092b45a84
+metadata:
+  title: 麟角集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:49:03.981216'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4c0084/KR4c0084_000.txt
+hash: sha256:ce778853395c416d76522df30aba3cb70ed0e453ab17590bb3969a3e4db5dae1
